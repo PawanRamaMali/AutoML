@@ -17,7 +17,7 @@
 #'
 #' @examples
 #'\dontrun{
-#' library(shinyML)
+#' library(AutoML)
 #' shinyML_classification(data = iris,y = "Species",framework = "h2o")
 #'}
 #' @import shiny argonDash argonR dygraphs data.table ggplot2 shinycssloaders sparklyr
