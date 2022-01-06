@@ -17,7 +17,7 @@
 #'
 #' @examples
 #'\dontrun{
-#' library(shinyML)
+#' library(autoML)
 #' # Classical regression analysis 
 #' shinyML_regression(data = iris,y = "Petal.Width",framework = "h2o")
 #' 
