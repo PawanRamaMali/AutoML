@@ -1,0 +1,15 @@
+^appveyor\.yml$
+^README\.Rmd$
+^.*\.Rproj$
+^\.Rproj\.user$
+^cran-comments\.md$
+^\.travis\.yml$
+^vignettes/vignettes\.Rmd$
+^vignettes/vignettes\.html$
+^vignettes/all_models\.gif$
+^vignettes/auto_ML\.gif$
+^vignettes/explore_data\.gif$
+^vignettes/one_model\.gif$
+^vignettes/logo_shinyML\.jpg$
+^vignettes/shinyML\.png$
+^CRAN-RELEASE$
